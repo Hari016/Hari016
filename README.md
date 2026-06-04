@@ -23,10 +23,10 @@ learning emerging technologies.
 - - - - ##   ⚡ **Fun Fact: I debug faster after drinking tea ☕.**
 
 ## 🚀 Current Focus
-🔭 Working on exciting projects
-🌱 Learning advanced frameworks and cloud technologies
-👯 Collaborating on open-source projects
-💬 Helping others in programming
+🔭 Working on exciting projects                                                                                                   
+🌱 Learning advanced frameworks and cloud technologies                                                                            
+👯 Collaborating on open-source projects                                                                                          
+💬 Helping others in programming                                                                                                  
 
 ## ❤️ Fun Facts 
 ☕ Powered by Coffee                                                                                                              
