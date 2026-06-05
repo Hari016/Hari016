@@ -18,7 +18,7 @@ learning emerging technologies.
 
 🤝 **Always interested in collaboration.**
 
-📫 **Email: yourmail@example.com**
+📫 **Email: harithagunna829@gmail.com**
 
 - - - - ##   ⚡ **Fun Fact: I debug faster after drinking tea ☕.**
 
@@ -63,8 +63,6 @@ Coffee ██████████ 90%
 ---
 [![](https://komarev.com/ghpvc/?username=Hari016&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Hari 016) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
