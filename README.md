@@ -1,62 +1,144 @@
-# ⚡ Welcome to My Digital Universe
-╔══════════════════════════════════════╗                                                                                         
- **👋 Hey there, I'm Hari Thagunna**                                                                                            
-  **🚀 Full Stack Developer**                                                                                              
-                                                                                                                                
-╚══════════════════════════════════════╝  
-## 💎 Who Am I?
-I am passionate about building modern web applications and continuously                                                           
-learning emerging technologies.
+<!-- ===================== HEADER (animated wave) ===================== -->
+<div align="center">
 
-## About Me 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Hari%20Thagunna&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=22&descAlignY=60" width="100%" alt="header" />
 
-🌱**Exploring new technologies every day.**
+<!-- Typing animation -->
+<a href="https://github.com/Hari016">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00F7FF&center=true&vCenter=true&width=640&height=50&lines=Building+modern+web+applications;Laravel+%7C+PHP+%7C+MySQL+%7C+JavaScript;Always+learning+cloud+%26+advanced+frameworks;First+solve+the+problem.+Then+write+the+code." alt="Typing animation" />
+</a>
 
-🔭**Currently crafting exciting projects.**
+<br/>
 
-💬 **Love discussing programming and innovation.**
+<img src="https://komarev.com/ghpvc/?username=Hari016&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/Hari016?label=Followers&style=for-the-badge&color=00c6ff&logo=github" alt="followers" />
 
-🤝 **Always interested in collaboration.**
+</div>
 
-📫 **Email: harithagunna829@gmail.com**
+---
 
-- - - - ##   ⚡ **Fun Fact: I debug faster after drinking tea ☕.**
+## 👨‍💻 About Me
 
-## 🚀 Current Focus
-🔭 Working on exciting projects                                                                                                   
-🌱 Learning advanced frameworks and cloud technologies                                                                            
-👯 Collaborating on open-source projects                                                                                          
-💬 Helping others in programming                                                                                                  
+<table>
+<tr>
+<td width="60%">
 
-## ❤️ Fun Facts 
-☕ Powered by Coffee                                                                                                              
-🎵 Coding with Music                                                                                                              
-💡 Passionate About Technology     
- 
-## ⚡ Power Level 
-Coding ████████████ 100%                                                                                                          
-Sleep  ███░░░░░░░░ 20%                                                                                                            
-Coffee ██████████ 90%                                                                                                             
+I'm a **Full Stack Developer** who enjoys turning ideas into clean, fast and scalable web applications.
 
- # "First, solve the problem. Then, write the code." 💙 
-- - - - - - - -   ## "Dream Big. Build Bigger." - - - - - - 
+- 🔭 Currently building web projects with **Laravel, PHP & MySQL**
+- 🌱 Learning **advanced frameworks and cloud technologies (AWS)**
+- 🤝 Open to **collaboration and open-source** contributions
+- 💬 Happy to talk about programming, design and innovation
+- ⚡ Fun fact: I debug faster after a cup of tea ☕
 
+</td>
+<td width="40%" align="center">
 
-                                   ⭐ Thanks for visiting my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=700&color=F7B801&center=true&vCenter=true&width=300&height=120&lines=%3E+const+me+%3D+%7B;++name%3A+%22Hari%22%2C;++role%3A+%22Full+Stack+Dev%22%2C;++fuel%3A+%22Tea+%26+Music%22;%7D%3B" alt="code card" />
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/HariT016) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harithagunna829?igsh=MTZpbGVhMGN3dHl2aw==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hari-thagunna-336997295?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@harithagunna6?_r=1&_t=ZS-96vghfu1hwu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harithagunna829@gmail.com) 
+</td>
+</tr>
+</table>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Hari016&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Hari016&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hari016&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+---
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,php,js,cs&theme=dark" alt="languages" />
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Web & Backend**
+
+<img src="https://skillicons.dev/icons?i=html,css,laravel,dotnet,apache&theme=dark" alt="web" />
+
+**Database, Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,aws,git,github,figma,jira&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hari016&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hari016&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=Hari016&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hari016&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="activity graph" width="95%" />
+
+</div>
+
+---
+
+## 🧊 3D Contribution Graph
+
+<div align="center">
+
+<!-- Generated by the 3D workflow (see .github/workflows/profile-3d.yml) -->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- Generated by the snake workflow (see .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hari016/Hari016/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hari016/Hari016/output/github-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Hari016/Hari016/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| 🔹 **Project One** | Short one-line description of what it does | `Laravel` `MySQL` |
+| 🔹 **Project Two** | Short one-line description of what it does | `PHP` `JavaScript` |
+| 🔹 **Project Three** | Short one-line description of what it does | `Java` `C++` |
+
+> ✏️ Replace these rows with your real projects and link each name to its repository.
+
+---
+
+## 🎯 Current Focus
+
+```text
+Backend architecture   ████████████░░░░  Laravel & APIs
+Cloud                  ████████░░░░░░░░  AWS fundamentals
+Open source            ██████░░░░░░░░░░  Finding projects to contribute to
+```
+
+---
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/hari-thagunna-336997295"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:harithagunna829@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.facebook.com/HariT016"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+<a href="https://www.instagram.com/harithagunna829"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@harithagunna6"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=500&lines=Dream+Big.+Build+Bigger.;Thanks+for+visiting+my+profile+%E2%AD%90" alt="footer quote" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
